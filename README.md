@@ -1,1 +1,1 @@
-# 3-Diagnostik
+# Dinning Philosopher Problem Animation Project 
