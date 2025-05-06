@@ -57,11 +57,13 @@ The simulation demonstrates:
 ## Visuals
 > Deadlock Simulation
 
-![Deadlock](https://github.com/user-attachments/assets/c6f79d40-5ea7-4262-9c1a-afba201efa95)
+![Deadlock (1) (2)](https://github.com/user-attachments/assets/f6299fda-c119-44e1-bd72-71d518c5b606)
+
 
 > Semaphore Simulation
 
-![Semaphore](https://github.com/user-attachments/assets/bed4c869-17c6-422e-a3ce-46e0a087298c)
+![Semaphore (1) (1)](https://github.com/user-attachments/assets/8bda3f3f-9d85-485c-8446-7aed19aa8534)
+
 
 ## Notes
 
